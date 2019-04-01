@@ -1,0 +1,2 @@
+# qlnmp
+quick lnmp
